@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ryan-bruce-7b1112231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ryan-bruce-7b1112231/" height="30" width="40" /></a>
-<a https://media2.giphy.com/media/XIahGhbK5A685fyr8D/giphy.gif?cid=ecf05e474gsvj2h2zmu4w2gvi9giwo6v5596richa3527iue&ep=v1_gifs_search&rid=giphy.gif&ct=g /></a>
+<a href="https://media2.giphy.com/media/XIahGhbK5A685fyr8D/giphy.gif?cid=ecf05e474gsvj2h2zmu4w2gvi9giwo6v5596richa3527iue&ep=v1_gifs_search&rid=giphy.gif&ct=g"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
