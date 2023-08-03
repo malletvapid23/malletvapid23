@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Ryan Bruce
 
-Here are some ideas to get you started:
 <h3 align="center">Senior Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malletvapid23&label=Profile%20views&color=0e75b6&style=flat" alt="malletvapid23" /> </p>
