@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Ryan Bruce
 
-**malletvapid23/malletvapid23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 <h3 align="center">Senior Software Engineer</h3>
 
